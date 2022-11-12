@@ -5,4 +5,4 @@
   </a>
 </div>
 
-## [Links](links.md#links)
+## [Links](links.md#links) | [Clipboard](clipboard.md#clipboard)
