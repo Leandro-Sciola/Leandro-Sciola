@@ -11,56 +11,34 @@
   <h2>Skills</h2>
 
   <br />
+
 <dl>
   <dt>Programming Languages</dt>
-  <dd>JavaScript</dd>
-  <dd>PHP</dd>
+  <dd>JavaScript<br />PHP</dd>
   <dt>Template Languages</dt>
-  <dd>EJS</dd>
-  <dd>Twig</dd>
+  <dd>EJS<br />Twig</dd>
   <dt>Markup Languages</dt>
-  <dd>HTML</dd>
-  <dd>XML</dd>
-  <dd>YAML</dd>
-  <dd>Markdown</dd>
+  <dd>HTML<br />XML<br />YAML<br />Markdown</dd>
   <dt>Formatting Languages</dt>
-  <dd>CSS</dd>
-  <dd>SCSS</dd>
+  <dd>CSS<br />SCSS</dd>
   <dt>Development Tools</dt>
-  <dd>Gedit</dd>
-  <dd>Git</dd>
+  <dd>Gedit<br />Git</dd>
   <dt>Image Applications</dt>
-  <dd>Gimp</dd>
-  <dd>Inkscape</dd>
+  <dd>Gimp<br />Inkscape</dd>
   <dt>Server Applications</dt>
-  <dd>Apache2</dd>
-  <dd>Nginx</dd>
-  <dd>Node.js</dd>
-  <dd>Docker</dd>
-  <dd>VirtualBox</dd>
+  <dd>Apache2<br />Nginx<br />Node.js<br />Docker<br />VirtualBox</dd>
   <dt>Operational System</dt>
   <dd>Linux (Debian) since 2004</dd>
   <dt>Database</dt>
-  <dd>MariaDB/MySQL</dd>
-  <dd>MongoDB</dd>
-  <dd>PostgreSQL</dd>
-  <dd>SQLite</dd>
+  <dd>MariaDB/MySQL<br />MongoDB<br />PostgreSQL<br />SQLite</dd>
   <dt>Frameworks and Libraries</dt>
-  <dd>CodeIgniter</dd>
-  <dd>Bootstrap</dd>
-  <dd>Jquery</dd>
-  <dd>Vue.js</dd>
+  <dd>CodeIgniter<br />Bootstrap<br />Jquery<br />Vue.js</dd>
   <dt>Agile Methodologies</dt>
-  <dd>Kanban</dd>
-  <dd>Scrum</dd>
+  <dd>Kanban<br />Scrum</dd>
   <dt>Paradigms, Patterns and Techniques</dt>
-  <dd>MVC</dd>
-  <dd>ORM</dd>
-  <dd>Object Oriented Programming</dd>
+  <dd>MVC<br />ORM<br />Object Oriented Programming</dd>
   <dt>Platforms</dt>
-  <dd>Google Cloud</dd>
-  <dd>GitHub</dd>
-  <dd>NPM</dd>
+  <dd>Google Cloud<br />GitHub<br />NPM</dd>
 </dl>
 
   <a href="https://github.com/Leandro-Sciola">
