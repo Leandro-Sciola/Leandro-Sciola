@@ -1,37 +1,7 @@
-<svg fill="none" viewBox="0 0 100% 227" width="100%" height="227" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 100% 400" width="100%" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
 				.container {
 					font-family:
 						system-ui,
@@ -51,9 +21,8 @@
 					padding: 10px;
 					width: auto;
 					height: 80px;
-					background: linear-gradient(-45deg, #162d50, #3584e4, #162d50);
+					background: #162d50;
 					background-size: 600% 400%;
-					animation: gradientBackground 4s ease infinite;
 					border-radius: 5px;
 					color: white;
 					text-align: center;
@@ -69,17 +38,13 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					/*animation: rotate ease-in-out 1s infinite alternate;*/
 				}
 				p {
 					font-size: 20px;
 					text-shadow: 0 1px 0 #efefef;
-					/*animation: 5s ease 0s normal forwards 1 fadeIn;*/
 				}
 			</style>
-<div style="text-align: center; margin-bottom: 40px;">
 
-</div>
 			<div class="container">
 				<h3>Full-Stack Web Developer with experience since 2001.<br />Graduated in Information Systems from the Bandeirante University of São Paulo, Brazil.</h3>
 			</div>
