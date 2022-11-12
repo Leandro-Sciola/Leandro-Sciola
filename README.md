@@ -12,6 +12,7 @@
 
   <br />
 
+<h3>
 <dl>
   <dt>Programming Languages</dt>
   <dd>JavaScript<br />PHP</dd>
@@ -40,6 +41,7 @@
   <dt>Platforms</dt>
   <dd>Google Cloud<br />GitHub<br />NPM</dd>
 </dl>
+</h3>
 
   <a href="https://github.com/Leandro-Sciola">
     <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" height="150em" />
