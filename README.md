@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Profile</h1>
-  <img src="profile.svg" width="100%" height="100%">
+  <img src="profile.svg" width="100%">
   <h2>Skills</h2>
   <br />
 <dl>
