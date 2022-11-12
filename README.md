@@ -12,5 +12,5 @@
 
   <br />
 
-  <img src="email_button.png" width="200px">
+  <img src="email_button.png">
 </div>
