@@ -9,4 +9,8 @@
   <h3>
     <a href="links.md">Links</a> | <a href="clipboard.md">Clipboard</a>
   </h3>
+
+  <br />
+
+  <img src="email_button.png" width="200px">
 </div>
