@@ -6,6 +6,8 @@
 
   <hr />
 
+  <h1><a href="links.md#links">Links</a></h1>
+  
   ### [Links](links.md#links) | [Clipboard](clipboard.md#clipboard)
 
 </div>
