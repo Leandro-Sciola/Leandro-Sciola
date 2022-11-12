@@ -8,82 +8,57 @@
 
   <br />
 
-<h2>Skills</h2>
-<h3>Programming Languages</h3>
-<ul>
-<li>JavaScript</li>
-<li>PHP</li>
-</ul>
-<h3>Template Languages</h3>
-<ul>
-<li>EJS</li>
-<li>Twig</li>
-</ul>
-<h3>Markup Languages</h3>
-<ul>
-<li>HTML</li>
-<li>XML</li>
-<li>YAML</li>
-<li>Markdown</li>
-</ul>
-<h3>Formatting Languages</h3>
-<ul>
-<li>CSS</li>
-<li>SCSS</li>
-</ul>
-<h3>Development Tools</h3>
-<ul>
-<li>Gedit</li>
-<li>Git</li>
-</ul>
-<h3>Image Applications</h3>
-<ul>
-<li>Gimp</li>
-<li>Inkscape</li>
-</ul>
-<h3>Server Applications</h3>
-<ul>
-<li>Apache2</li>
-<li>Nginx</li>
-<li>Node.js</li>
-<li>Docker</li>
-<li>VirtualBox</li>
-</ul>
-<h3>Operational System</h3>
-<ul>
-<li>Linux (Debian) since 2004</li>
-</ul>
-<h3>Database</h3>
-<ul>
-<li>MariaDB/MySQL</li>
-<li>MongoDB</li>
-<li>PostgreSQL</li>
-<li>SQLite</li>
-</ul>
-<h3>Frameworks and Libraries</h3>
-<ul>
-<li>CodeIgniter</li>
-<li>Bootstrap</li>
-<li>Jquery</li>
-<li>Vue.js</li>
-</ul>
-<h3>Agile Methodologies</h3>
-<ul>
-<li>Kanban</li>
-<li>Scrum</li>
-</ul>
-<h3>Paradigms, Patterns and Techniques</h3>
-<ul>
-<li>MVC</li>
-<li>ORM</li>
-<li>Object Oriented Programming</li>
-</ul>
-<h3>Platforms</h3>
-<ul>
-<li>Google Cloud</li>
-<li>GitHub</li>
-<li>NPM</li>
-</ul>
+<dl>
+  <dt>Programming Languages</dt>
+  <dd>JavaScript</dd>
+  <dd>PHP</dd>
+  <dt>Template Languages</dt>
+  <dd>EJS</dd>
+  <dd>Twig</dd>
+  <dt>Markup Languages</dt>
+  <dd>HTML</dd>
+  <dd>XML</dd>
+  <dd>YAML</dd>
+  <dd>Markdown</dd>
+  <dt>Formatting Languages</dt>
+  <dd>CSS</dd>
+  <dd>SCSS</dd>
+  <dt>Development Tools</dt>
+  <dd>Gedit</dd>
+  <dd>Git</dd>
+  <dt>Image Applications</dt>
+  <dd>Gimp</dd>
+  <dd>Inkscape</dd>
+  <dt>Server Applications</dt>
+  <dd>Apache2</dd>
+  <dd>Nginx</dd>
+  <dd>Node.js</dd>
+  <dd>Docker</dd>
+  <dd>VirtualBox</dd>
+  <dt>Operational System</dt>
+  <dd>Linux (Debian) since 2004</dd>
+  <dt>Database</dt>
+  <dd>MariaDB/MySQL</dd>
+  <dd>MongoDB</dd>
+  <dd>PostgreSQL</dd>
+  <dd>SQLite</dd>
+  <dt>Frameworks and Libraries</dt>
+  <dd>CodeIgniter</dd>
+  <dd>Bootstrap</dd>
+  <dd>Jquery</dd>
+  <dd>Vue.js</dd>
+  <dt>Agile Methodologies</dt>
+  <dd>Kanban</dd>
+  <dd>Scrum</dd>
+  <dt>Paradigms, Patterns and Techniques</dt>
+  <dd>MVC</dd>
+  <dd>ORM</dd>
+  <dd>Object Oriented Programming</dd>
+  <dt>Platforms</dt>
+  <dd>Google Cloud</dd>
+  <dd>GitHub</dd>
+  <dd>NPM</dd>
+</dl>
 
 
   <a href="https://github.com/Leandro-Sciola">
