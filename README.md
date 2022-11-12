@@ -12,36 +12,36 @@
 
   <br />
 
-<h3>
+
 <dl>
-  <dt>Programming Languages</dt>
+  <dt><h3>Programming Languages</h3></dt>
   <dd>JavaScript<br />PHP</dd>
-  <dt>Template Languages</dt>
+  <dt><h3>Template Languages</h3></dt>
   <dd>EJS<br />Twig</dd>
-  <dt>Markup Languages</dt>
+  <dt><h3>Markup Languages</h3></dt>
   <dd>HTML<br />XML<br />YAML<br />Markdown</dd>
-  <dt>Formatting Languages</dt>
+  <dt><h3>Formatting Languages</h3></dt>
   <dd>CSS<br />SCSS</dd>
-  <dt>Development Tools</dt>
+  <dt><h3>Development Tools</h3></dt>
   <dd>Gedit<br />Git</dd>
-  <dt>Image Applications</dt>
+  <dt><h3>Image Applications</h3></dt>
   <dd>Gimp<br />Inkscape</dd>
-  <dt>Server Applications</dt>
+  <dt><h3>Server Applications</h3></dt>
   <dd>Apache2<br />Nginx<br />Node.js<br />Docker<br />VirtualBox</dd>
-  <dt>Operational System</dt>
+  <dt><h3>Operational System</h3></dt>
   <dd>Linux (Debian) since 2004</dd>
-  <dt>Database</dt>
+  <dt><h3>Database</h3></dt>
   <dd>MariaDB/MySQL<br />MongoDB<br />PostgreSQL<br />SQLite</dd>
-  <dt>Frameworks and Libraries</dt>
+  <dt><h3>Frameworks and Libraries</h3></dt>
   <dd>CodeIgniter<br />Bootstrap<br />Jquery<br />Vue.js</dd>
-  <dt>Agile Methodologies</dt>
+  <dt><h3>Agile Methodologies</h3></dt>
   <dd>Kanban<br />Scrum</dd>
-  <dt>Paradigms, Patterns and Techniques</dt>
+  <dt><h3>Paradigms, Patterns and Techniques</h3></dt>
   <dd>MVC<br />ORM<br />Object Oriented Programming</dd>
-  <dt>Platforms</dt>
+  <dt><h3>Platforms</h3></dt>
   <dd>Google Cloud<br />GitHub<br />NPM</dd>
 </dl>
-</h3>
+
 
   <a href="https://github.com/Leandro-Sciola">
     <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" height="150em" />
