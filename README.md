@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Profile</h1>
-  <a href="https://github.com/Leandro-Sciola"><img src="profile.svg" width="100%"></a>
+  <a href="https://github.com/Leandro-Sciola"><img src="images/profile.svg" width="100%"></a>
   <h2>Skills</h2>
   <br />
 <dl>
@@ -45,6 +45,6 @@
 
   <br />
   <a href="mailto:leandrosciola@gmail.com">
-    <img src="email_button.png" width="120px">
+    <img src="images/email_button.png" width="120px">
   </a>
 </div>
