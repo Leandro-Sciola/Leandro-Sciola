@@ -54,6 +54,6 @@
 
   <br />
   <a href="mailto:leandrosciola@gmail.com">
-    <img src="email_button.png" width="150px">
+    <img src="email_button.png" width="120px">
   </a>
 </div>
