@@ -11,6 +11,7 @@
   </h3>
 
   <br />
-
-  <img src="email_button.png">
+  <a href="mailto:leandrosciola@gmail.com">
+    <img src="email_button.png">
+  </a>
 </div>
