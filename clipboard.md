@@ -1,9 +1,8 @@
 # Clipboard
 
-/*
-
 package.json
 
+```json
 {
   "name": "sciola",
   "dependencies": {
@@ -53,9 +52,7 @@ package.json
     "xml-parser": "^1.2.1"
   }
 }
-*/
-
-
+```
 
 
 --------------------------------------------------------------------------------
