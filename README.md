@@ -7,6 +7,6 @@
   <hr />
 
   <h3>
-    <a href="links.md#links">Links</a> | <a href="clipboard.md#clipboard">Clipboard</a>
+    <a href="links.md">Links</a> | <a href="clipboard.md">Clipboard</a>
   </h3>
 </div>
