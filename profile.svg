@@ -20,24 +20,11 @@
 					margin: 0;
 					padding: 10px;
 					width: auto;
-					height: 80px;
+					height: 200px;
 					background: #162d50;
-					background-size: 600% 400%;
 					border-radius: 5px;
 					color: white;
 					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
 				}
 				p {
 					font-size: 20px;
@@ -46,7 +33,7 @@
 			</style>
 
 			<div class="container">
-				<h3>Full-Stack Web Developer with experience since 2001.<br />Graduated in Information Systems from the Bandeirante University of São Paulo, Brazil.</h3>
+				<h4>Full-Stack Web Developer with experience since 2001.<br />Graduated in Information Systems from the Bandeirante University of São Paulo, Brazil.</h4>
 			</div>
 		</div>
 	</foreignObject>
