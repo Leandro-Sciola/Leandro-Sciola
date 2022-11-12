@@ -8,6 +8,9 @@
 
   <br />
 
+  <h2>Skills</h2>
+
+  <br />
 <dl>
   <dt>Programming Languages</dt>
   <dd>JavaScript</dd>
@@ -59,7 +62,6 @@
   <dd>GitHub</dd>
   <dd>NPM</dd>
 </dl>
-
 
   <a href="https://github.com/Leandro-Sciola">
     <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" height="150em" />
