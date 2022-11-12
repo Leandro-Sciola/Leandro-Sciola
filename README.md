@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Profile</h1>
   <br />
+  <img src="profile.svg">
   <h4>
     Full-Stack Web Developer with experience since 2001.<br />
     Graduated in Information Systems from the Bandeirante University of São Paulo, Brazil.
