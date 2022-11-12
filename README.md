@@ -9,39 +9,39 @@
   <br />
 
 <h2>Skills</h2>
-<h5>Programming Languages</h5>
+<h3>Programming Languages</h3>
 <ul>
 <li>JavaScript</li>
 <li>PHP</li>
 </ul>
-<h5>Template Languages</h5>
+<h3>Template Languages</h3>
 <ul>
 <li>EJS</li>
 <li>Twig</li>
 </ul>
-<h5>Markup Languages</h5>
+<h3>Markup Languages</h3>
 <ul>
 <li>HTML</li>
 <li>XML</li>
 <li>YAML</li>
 <li>Markdown</li>
 </ul>
-<h5>Formatting Languages</h5>
+<h3>Formatting Languages</h3>
 <ul>
 <li>CSS</li>
 <li>SCSS</li>
 </ul>
-<h5>Development Tools</h5>
+<h3>Development Tools</h3>
 <ul>
 <li>Gedit</li>
 <li>Git</li>
 </ul>
-<h5>Image Applications</h5>
+<h3>Image Applications</h3>
 <ul>
 <li>Gimp</li>
 <li>Inkscape</li>
 </ul>
-<h5>Server Applications</h5>
+<h3>Server Applications</h3>
 <ul>
 <li>Apache2</li>
 <li>Nginx</li>
@@ -49,36 +49,36 @@
 <li>Docker</li>
 <li>VirtualBox</li>
 </ul>
-<h5>Operational System</h5>
+<h3>Operational System</h3>
 <ul>
 <li>Linux (Debian) since 2004</li>
 </ul>
-<h5>Database</h5>
+<h3>Database</h3>
 <ul>
 <li>MariaDB/MySQL</li>
 <li>MongoDB</li>
 <li>PostgreSQL</li>
 <li>SQLite</li>
 </ul>
-<h5>Frameworks and Libraries</h5>
+<h3>Frameworks and Libraries</h3>
 <ul>
 <li>CodeIgniter</li>
 <li>Bootstrap</li>
 <li>Jquery</li>
 <li>Vue.js</li>
 </ul>
-<h5>Agile Methodologies</h5>
+<h3>Agile Methodologies</h3>
 <ul>
 <li>Kanban</li>
 <li>Scrum</li>
 </ul>
-<h5>Paradigms, Patterns and Techniques</h5>
+<h3>Paradigms, Patterns and Techniques</h3>
 <ul>
 <li>MVC</li>
 <li>ORM</li>
 <li>Object Oriented Programming</li>
 </ul>
-<h5>Platforms</h5>
+<h3>Platforms</h3>
 <ul>
 <li>Google Cloud</li>
 <li>GitHub</li>
