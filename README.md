@@ -6,8 +6,7 @@
 
   <hr />
 
-  <h1><a href="links.md#links">Links</a></h1>
-  
-  ### [Links](links.md#links) | [Clipboard](clipboard.md#clipboard)
-
+  <h3>
+    <a href="links.md#links">Links</a> | <a href="clipboard.md#clipboard">Clipboard</a>
+  </h3>
 </div>
