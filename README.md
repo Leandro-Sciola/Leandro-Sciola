@@ -2,6 +2,7 @@
   <h1>Profile</h1>
   <a href="https://github.com/Leandro-Sciola"><img src="images/profile.svg" width="100%"></a>
   <h2>Skills</h2>
+  <a href="https://github.com/Leandro-Sciola"><img src="images/skills.svg" width="100%"></a>
   <br />
 <dl>
   <dt><h3>Programming Languages</h3></dt>
