@@ -34,6 +34,11 @@
 
   <hr />
 
+  <a href="https://github.com/Leandro-Sciola">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Sciola&layout=compact&langs_count=6&theme=tokyonight" height="100%" />
+  </a>
+
   <h3>
     <a href="links.md">Links</a> | <a href="clipboard.md">Clipboard</a>
   </h3>
