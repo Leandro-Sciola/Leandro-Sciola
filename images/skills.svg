@@ -13,15 +13,15 @@
 						sans-serif,
 						'Apple Color Emoji',
 						'Segoe UI Emoji';
-					/*display: flex;
+					display: flex;
 					flex-direction: column;
 					align-items: center;
-					justify-content: center;*/
+					justify-content: center;
 					margin: 0;
 					padding: 10px;
 					width: auto;
 					height: 1680px;
-					background: #162d50;
+					background: #234df4;
 					border-radius: 5px;
 					color: white;
 					text-align: center;
