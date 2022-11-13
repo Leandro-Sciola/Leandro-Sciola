@@ -1,5 +1,7 @@
 # Clipboard
 
+esbuild-linux-32 - The Linux 32-bit binary for esbuild, a JavaScript bundler. https://github.com/evanw/esbuild
+
 package.json
 
 ```json
