@@ -1,6 +1,28 @@
 # Clipboard
 
-esbuild-linux-32 - The Linux 32-bit binary for esbuild, a JavaScript bundler. https://github.com/evanw/esbuild
+### esbuild-linux-32
+
+package.json
+
+```json
+{
+  "name": "esbuild-linux-32",
+  "version": "0.15.6",
+  "description": "The Linux 32-bit binary for esbuild, a JavaScript bundler.",
+  "repository": "https://github.com/evanw/esbuild",
+  "license": "MIT",
+  "preferUnplugged": false,
+  "engines": {
+    "node": ">=12"
+  },
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "ia32"
+  ]
+}
+```
 
 package.json
 
