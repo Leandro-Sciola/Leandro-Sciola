@@ -33,9 +33,8 @@
 </dl>
 
   <a href="https://github.com/Leandro-Sciola">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" width="60%" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Sciola&layout=compact&langs_count=6&theme=tokyonight" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Leandro-Sciola&theme=tokyonight" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Sciola&layout=compact&langs_count=6&theme=tokyonight" width="45%" />
   </a>
 
   <hr />
