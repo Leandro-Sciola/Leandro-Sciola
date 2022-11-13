@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 100% 1650px" width="100%" height="1650px" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 100% 1680px" width="100%" height="1680px" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -20,8 +20,8 @@
 					margin: 0;
 					padding: 10px;
 					width: auto;
-					height: 1650px;
-					background: #613583;
+					height: 1680px;
+					background: #c64600;
 					border-radius: 5px;
 					color: white;
 					text-align: center;
@@ -65,6 +65,7 @@
 <li><h3>Platforms</h3></li>
 <li>Google Cloud<br />GitHub<br />NPM</li>
 </ul>
+<br />
 			</div>
 		</div>
 	</foreignObject>
