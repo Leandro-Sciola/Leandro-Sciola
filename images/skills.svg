@@ -1,0 +1,67 @@
+<svg fill="none" viewBox="0 0 100% 600" width="100%" height="600" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family:
+						system-ui,
+						-apple-system,
+						'Segoe UI',
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						'Apple Color Emoji',
+						'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					padding: 10px;
+					width: auto;
+					height: 600px;
+					background: #162d50;
+					border-radius: 5px;
+					color: white;
+					text-align: center;
+				}
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+				}
+			</style>
+
+			<div class="container">
+				<dl>
+        <dt><h3>Programming Languages</h3></dt>
+        <dd>JavaScript<br />PHP</dd>
+        <dt><h3>Template Languages</h3></dt>
+        <dd>EJS<br />Twig</dd>
+        <dt><h3>Markup Languages</h3></dt>
+        <dd>HTML<br />XML<br />YAML<br />Markdown</dd>
+        <dt><h3>Formatting Languages</h3></dt>
+        <dd>CSS<br />SCSS</dd>
+        <dt><h3>Development Tools</h3></dt>
+        <dd>Gedit<br />Git</dd>
+        <dt><h3>Image Applications</h3></dt>
+        <dd>Gimp<br />Inkscape</dd>
+        <dt><h3>Server Applications</h3></dt>
+        <dd>Apache2<br />Nginx<br />Node.js<br />Docker<br />VirtualBox</dd>
+        <dt><h3>Operational System</h3></dt>
+        <dd>Linux (Debian) since 2004</dd>
+        <dt><h3>Database</h3></dt>
+        <dd>MariaDB/MySQL<br />MongoDB<br />PostgreSQL<br />SQLite</dd>
+        <dt><h3>Frameworks and Libraries</h3></dt>
+        <dd>CodeIgniter<br />Bootstrap<br />Jquery<br />Vue.js</dd>
+        <dt><h3>Agile Methodologies</h3></dt>
+        <dd>Kanban<br />Scrum</dd>
+        <dt><h3>Paradigms, Patterns and Techniques</h3></dt>
+        <dd>MVC<br />ORM<br />Object Oriented Programming</dd>
+        <dt><h3>Platforms</h3></dt>
+        <dd>Google Cloud<br />GitHub<br />NPM</dd>
+      </dl>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
