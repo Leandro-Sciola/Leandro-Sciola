@@ -20,8 +20,8 @@
 					margin: 0;
 					padding: 10px;
 					width: auto;
-					height: 1680px;
-					background: #162d50;
+					height: 1660px;
+					background: #613583;
 					border-radius: 5px;
 					color: white;
 					text-align: center;
@@ -65,7 +65,7 @@
 <li><h3>Platforms</h3></li>
 <li>Google Cloud<br />GitHub<br />NPM</li>
 </ul>
-<br /><br />
+<br />
 			</div>
 		</div>
 	</foreignObject>
