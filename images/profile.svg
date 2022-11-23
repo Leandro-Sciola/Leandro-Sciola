@@ -22,7 +22,7 @@
 					width: auto;
 					height: 320px;
 					background: #162d50;
-					background-image: url('https://sciola-framework.github.io/images/backgrounds/gadgets.jpg');
+					background-image: url('https://raw.githubusercontent.com/sciola-framework/sciola-framework.github.io/main/images/backgrounds/gadgets.jpg');
 					border-radius: 5px;
 					color: white;
 					text-align: center;
