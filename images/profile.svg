@@ -35,10 +35,12 @@
 					text-shadow: 0 1px 0 #efefef;
 				}
 				h3 {
-				    background: #1a5fb4;
+				    background: #1c71d8;
 				    opacity: 0.8;
-				    padding: 50px;
+				    padding: 80px;
 				    margin: 0;
+				    border-top: 1px solid #ffffff;
+				    border-bottom: 1px solid #ffffff;
 				    color: #ffffff;
 				    width: 100%;
 				}
