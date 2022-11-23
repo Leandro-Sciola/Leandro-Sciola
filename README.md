@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Profile</h1>
   <a href="https://github.com/Leandro-Sciola"><img src="images/profile.svg" width="100%"></a>
-  <h2>Skills</h2>
+  <h1>Skills</h1>
   <a href="https://github.com/Leandro-Sciola"><img src="images/skills.svg" width="100%"></a>
   <br />
   <br />
