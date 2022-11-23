@@ -33,10 +33,7 @@
 				}
 				h3 {
 				    padding: 50px;
-				    background-color: #ffffff;
-				    color: #162d50;
-				    border-top: 10px solid #ccc;
-				    border-bottom: 10px solid #ccc;
+				    color: #ffffff;
 				    width: 100%;
 				}
 			</style>
