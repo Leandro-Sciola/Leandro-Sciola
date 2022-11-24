@@ -22,6 +22,7 @@
 * [JSON API for testing](https://api.chucknorris.io/jokes/random)
 * [OctaPHP](https://synestergates788.github.io/octaphp.github.io/index.html)
 * [Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io)
+* [quagga2 - An advanced barcode-scanner written in Javascript](https://github.com/ericblade/quagga2)
 
 ## Business
 
