@@ -9,7 +9,7 @@
  
   ##
 
-  <a href="https://www.paypal.com/donate/?hosted_button_id=N2HMD3ZGLQP44">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=T78XMWFQVHUQA">
     <img src="images/paypal.png" width="135px">
   </a>
   <a href="https://github.com/sponsors/Leandro-Sciola">
