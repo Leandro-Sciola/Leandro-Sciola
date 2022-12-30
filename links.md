@@ -24,10 +24,6 @@
 * [Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io)
 * [quagga2 - An advanced barcode-scanner written in Javascript](https://github.com/ericblade/quagga2)
 
-## Business
-
-* [Banking as a Service. Brazil](https://bankly.com.br/)
-
 ## Multimedia
 
 * [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt/)
