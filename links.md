@@ -27,3 +27,18 @@
 ## Business
 
 * [Banking as a Service. Brazil](https://bankly.com.br/)
+
+## Multimedia
+
+* [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt/)
+* [A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more](https://casesandberg.github.io/react-color/)
+* [Vocal Remover and Isolation.](https://vocalremover.org)
+* [Vocal Remover.](https://moises.ai)
+* [Spokesperson Video - Text to Video.](https://www.movio.la)
+* [Fully Open-sourced Online MIDI Editor.](https://signal.vercel.app/edit)
+* [Drum Machine and Sequencer.](https://patternsketch.com)
+* [Open SF2 file.](https://plypp-beta.netlify.app)
+* [Audio+Video+Screen Recording using RecordRTC.](https://www.webrtc-experiment.com/RecordRTC/)
+* [Audio Recording Demo With WebAudioRecorder.js.](https://addpipe.com/simple-web-audio-recorder-demo/)
+* [SVG Edit](https://svgedit.netlify.app/editor/index.html)
+* [WebAudioFont](https://surikov.github.io/webaudiofont/)
